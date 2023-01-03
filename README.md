@@ -1,3 +1,7 @@
+```
+mail= admin@123.com
+pwd= admin123
+```
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
