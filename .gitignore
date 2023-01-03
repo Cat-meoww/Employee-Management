@@ -79,7 +79,7 @@ tests/coverage*
 
 # Don't save phpunit under version control.
 phpunit
-public/uploads/*.png
+public/uploads
 
 #-------------------------
 # Composer
